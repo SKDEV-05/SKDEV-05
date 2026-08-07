@@ -33,13 +33,13 @@ I love connecting web, backend, and mobile into one complete ecosystem — not j
 ## 🌐 Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/Saad KORMA" target="blank">
+<a href="https://linkedin.com/in/Saad KORMA" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/saadkorma_dev/?__pwa=1">
+<a href="https://www.instagram.com/saadkorma_dev/?__pwa=1" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.youtube.com/@sk-dev-2025">
+<a href="https://www.youtube.com/@sk-dev-2025" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </p>
