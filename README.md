@@ -36,10 +36,10 @@ I love connecting web, backend, and mobile into one complete ecosystem — not j
 <a href="https://linkedin.com/in/Saad KORMA" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.instagram.com/saadkorma_dev/?__pwa=1">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="#">
+<a href="https://www.youtube.com/@sk-dev-2025">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 </p>
